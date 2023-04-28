@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://veritaslight.com/wp-content/uploads/2016/04/abstract-light-blue-wallpaper-2643-2827-hd-wallpapers.jpg');
+    background-size: cover;
+    background-position: fill;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    padding-top: 50px;
+    width: 200px;
+}
+
+.button {
+    display: block;
+    margin: 50px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0062cc;
+}
+
+.description {
+    text-align: center;
+    color: rgb(10, 10, 10);
+    font-size: 20px;
+    margin-bottom: 50px;
+}

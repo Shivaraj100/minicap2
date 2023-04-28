@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-image: url('https://veritaslight.com/wp-content/uploads/2016/04/abstract-light-blue-wallpaper-2643-2827-hd-wallpapers.jpg');}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 25;
+    border-radius: 3px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+button {
+    background-color: #151c7e;
+    color: white;
+    padding: 10px 20px;
+    border: 20px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+}
+button:hover {
+    background-color: #18d8ce;
+}
+p {
+    margin-top: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+
+header {
+    background-color:#0091EA;
+    color: white;
+    padding: 1rem;
+    text-align: right;
+  }
+
+  h2 {
+    color: rgb(8, 8, 8);
+    font-size:x;
+  }
